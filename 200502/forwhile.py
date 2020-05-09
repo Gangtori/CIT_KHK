@@ -12,3 +12,4 @@ for jiwon in [7,6,5,4,3,2,1]:
     first = second
     second = first + temp
     print(first)
+print("안녕")
