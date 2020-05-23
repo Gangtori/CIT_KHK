@@ -1,4 +1,4 @@
-number = 6379
+number = 1000000
 divider = 2
 isprime = False
 
